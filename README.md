@@ -13,7 +13,7 @@
   <img align="center" alt="Brendo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brendo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brendo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Brendo-pic" height="150" src="https://media.discordapp.net/attachments/914421754183700490/1105307929298600056/chibi.png?width=539&height=539">
+  <!-- <img align="right" alt="Brendo-pic" height="150" src="https://media.discordapp.net/attachments/914421754183700490/1105307929298600056/chibi.png?width=539&height=539"> -->
 </div>
   
 ##
